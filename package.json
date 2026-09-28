@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/cleanxml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clean numeric xml values, ranges, and human-readable units.",
+  "bin": {
+    "cleanxml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/cleanxml.git"
+  },
+  "homepage": "https://theworker02.github.io/cleanxml/",
+  "keywords": [
+    "clean",
+    "xml",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
